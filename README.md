@@ -6,4 +6,4 @@
 # CONTRIBUTERS
 1. Maxwell Booker
 
-## A detailed summary of my analysis steps is documented on my [Wiki](https://github.com/alunga20/Miniproject/wiki)
+## A detailed summary of analysis steps is documented on my [Wiki](https://github.com/alunga20/Miniproject/wiki)
