@@ -1,0 +1,46 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sp|P04798.1|CP1A1_HUMAN      MLFPISMSATEFLLASVIFCLVFWVIRASRPQVPKGLKNPPGPWGWPLIG
+2HI4_1|Chain                 ----------------------MAVLKGLRPRVPKGLKSPPEPWGWPLLG
+                                                   : *::. **:******.** ******:*
+
+sp|P04798.1|CP1A1_HUMAN      HMLTLGKNPHLALSRMSQQYGDVLQIRIGSTPVVVLSGLDTIRQALVRQG
+2HI4_1|Chain                 HVLTLGKNPHLALSRMSQRYGDVLQIRIGSTPVLVLSRLDTIRQALVRQG
+                             *:****************:**************:*** ************
+
+sp|P04798.1|CP1A1_HUMAN      DDFKGRPDLYTFTLISNGQSMSFSPDSGPVWAARRRLAQNGLKSFSIASD
+2HI4_1|Chain                 DDFKGRPDLYTSTLITDGQSLTFSTDSGPVWAARRRLAQNALNTFSIASD
+                             *********** ***::***::**.***************.*::******
+
+sp|P04798.1|CP1A1_HUMAN      PASSTSCYLEEHVSKEAEVLISTLQELMAGPGHFNPYRYVVVSVTNVICA
+2HI4_1|Chain                 PASSSSCYLEEHVSKEAKALISRLQELMAGPGHFDPYNQVVVSVANVIGA
+                             ****:************:.*** ***********:**. *****:*** *
+
+sp|P04798.1|CP1A1_HUMAN      ICFGRRYDHNHQELLSLVNLNNNFGEVVGSGNPADFIPILRYLPNPSLNA
+2HI4_1|Chain                 MCFGQHFPESSDEMLSLVKNTHEFVETASSGNPLDFFPILRYLPNPALQR
+                             :***::: .. :*:****: .::* *...**** **:*********:*: 
+
+sp|P04798.1|CP1A1_HUMAN      FKDLNEKFYSFMQKMVKEHYKTFEKGHIRDITDSLIEHCQEKQLDENANV
+2HI4_1|Chain                 FKAFNQRFLWFLQKTVQEHYQDFDKNSVRDITGALFKHS--KKGPRASGN
+                             ** :*::*  *:** *:***: *:*. :****.:*::*.  *:  . :. 
+
+sp|P04798.1|CP1A1_HUMAN      QLSDEKIINIVLDLFGAGFDTVTTAISWSLMYLVMNPRVQRKIQEELDTV
+2HI4_1|Chain                 LIPQEKIVNLVNDIFGAGFDTVTTAISWSLMYLVTKPEIQRKIQKELDTV
+                              :.:***:*:* *:******************** :*.:*****:*****
+
+sp|P04798.1|CP1A1_HUMAN      IGRSRRPRLSDRSHLPYMEAFILETFRHSSFVPFTIPHSTTRDTSLKGFY
+2HI4_1|Chain                 IGRERRPRLSDRPQLPYLEAFILETFRHSSFLPFTIPHSTTRDTTLNGFY
+                             ***.********.:***:*************:************:*:***
+
+sp|P04798.1|CP1A1_HUMAN      IPKGRCVFVNQWQINHDQKLWVNPSEFLPERFLTPDG-AIDKVLSEKVII
+2HI4_1|Chain                 IPKKCCVFVNQWQVNHDPELWEDPSEFRPERFLTADGTAINKPLSEKMML
+                             ***  ********:*** :** :**** ******.** **:* ****:::
+
+sp|P04798.1|CP1A1_HUMAN      FGMGKRKCIGETIARWEVFLFLAILLQRVEFSVPLGVKVDMTPIYGLTMK
+2HI4_1|Chain                 FGMGKRRCIGEVLAKWEIFLFLAILLQQLEFSVPPGVKVDLTPIYGLTMK
+                             ******:****.:*:**:*********::***** *****:*********
+
+sp|P04798.1|CP1A1_HUMAN      HACCEHFQMQLRS------
+2HI4_1|Chain                 HARCEHVQARRFSINHHHH
+                             ** ***.* :  *      
