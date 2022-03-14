@@ -47,5 +47,26 @@
 
 ## Steps Involved in modelling
 
-**Step 1**
+_ All sequence formats used to reproduce [citation](https://www.researchgate.net/publication/264790092_Homology_Modeling_of_CYP1A1_CYP1B1_and_its_Subsequent_Molecular_Docking_Studies_with_Resveratrol_and_its_Analogues_using_AutoDock_Tools_40) are found in [sequences_formats](https://github.com/alunga20/Miniproject/tree/main/sequence_formats)
+
+
+**Step 1** - Template Identification.
+- Target sequence in FASTA format as input(CYP1A1 and CYP1B1 protein sequences in FASTA format as target sequences)
+- BLASTp against PDB(to obtain the related protein sequence to be used as template by the BLAST against PDB)
+- Identify proteins with "good" hit(crystal structure of CYP1A2 (PDB_ID: 2HI4)as template showing more than 40% identity)
+- Pairwise sequence alignment( The co-ordinates structurally conserved regions for CYP1A1 and CYP1B1 were assigned from the template (PDB_ID: 2HI4) using pairwise sequence alignment based on the Needleman-Wunsch algorithm (Needleman et al, 1970 and Thomson _et al_, 1994).)
+
+**Step 2**
+- Homology Modelling(using a suitable software, SWISS-MODEL or MODELLER, construct 3D models). After construction of 3-D model of CYP1A1
+and CYP1B1 heme group was introduced into the protein
+to occupy the same position as heme of the template
+protein CYP1A2. 
+- Finally energy minimization of the
+constructed structures was performed until the energy
+gradient was lower than 0.1Kcal/mole Å using CharMM
+force field.
+- Model assessment and refinement using Structural analysis and verification server [link](https://saves.mbi.ucla.edu/)
+
+![Screenshot 2022-03-14 at 11-34-05 SAVESv6 0 - Structure Validation Server](https://user-images.githubusercontent.com/88286419/158139610-4d2f7bf5-c2e8-4864-aaca-1b0aa6f12b6d.png)
+
 
