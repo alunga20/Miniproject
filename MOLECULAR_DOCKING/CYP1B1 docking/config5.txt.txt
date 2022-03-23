@@ -1,0 +1,16 @@
+receptor = receptor2.pdbqt
+ligand = resveratrol_ligand 
+
+center_x = 7.202
+center_y = 21.427
+center_z = 18.697
+
+size_x = 40
+size_y = 40
+size_z = 40
+
+energy_range=10
+exhaustiveness=20
+
+out = output5.pdbqt
+log = results5.txt
